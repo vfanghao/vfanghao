@@ -3,3 +3,6 @@
 
 ### Hi there 👋
 
+- Read more about my [Blog](https://fanghao.me/)
+- Talk with me by [Email](mailto:i@fanghao.me)
+
