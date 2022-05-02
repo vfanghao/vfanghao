@@ -4,5 +4,5 @@
 ### Hi there 👋
 
 - Read more about my [Blog](https://fanghao.me/)
-- Reach me by [Email](mailto:i@fanghao.me)
+- Reach me by [Email](mailto:vfanghao@gmail.com)
 
